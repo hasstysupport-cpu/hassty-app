@@ -6,7 +6,7 @@
 
 | الملف | الحجم | الإصدار |
 |-------|-------|---------|
-| [hassty-v1.1.1.apk](https://github.com/hasstysupport-cpu/hassty-app/releases/download/v1.1.1/hassty-v1.1.1.apk) | 37 MB | v1.1.1 🛡️ |
+| [h[hassty-v1.1.1.apk](https://github.com/hasstysupport-cpu/hassty-app/releases/download/v1.1.1/hassty-v1.1.1.apk) | 37 MB | v1.1.1 🛡️ |
 
 رابط أحدث إصدار دائمًا:
 `https://github.com/hasstysupport-cpu/hassty-app/releases/latest/download/hassty-v1.1.1.apk`
